@@ -1,0 +1,9 @@
+(deftemplate animal 
+	(slot animal-is)(slot live-in-soil)
+    (slot body-in-segments)(slot flat-body)
+	(slot many-cells)
+	(slot animal-have-shell)(slot one-cell)
+	(slot animal-attached-to-object)
+    (slot animal-have-tail)(slot Spiral-shaped-shell)
+	(slot have-spike)(slot two-half-shells)
+)
